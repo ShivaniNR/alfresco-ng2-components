@@ -1,0 +1,62 @@
+{
+    "CORE": {
+       "PAGINATION": {
+            "ARIA": {
+              "ITEMS_PER_PAGE": "محدد حجم الصفحة",
+              "CURRENT_PAGE": "محدد الصفحة الحالي",
+              "PREVIOUS_PAGE": "زر الصفحة السابقة",
+              "NEXT_PAGE": "زر الصفحة التالية"
+            },
+            "ITEMS_RANGE": "عرض {{range}} من {{total}}",
+            "ITEMS_PER_PAGE": "العناصر لكل صفحة",
+            "CURRENT_PAGE": "الصفحة {{number}}",
+            "TOTAL_PAGES": "من {{ total }}"
+          },
+          "METADATA": {
+            "BASIC": {
+            "HEADER": "الخصائص",
+            "NAME": "اسم",
+            "TITLE": "عنوان",
+            "DESCRIPTION": "وصفا",
+            "AUTHOR": "مؤلف",
+            "MIMETYPE": "نوع المايم",
+            "SIZE": "حجم",
+            "CREATOR": "المنشئ",
+            "CREATED_DATE": "تاريخ الإنشاء",
+            "MODIFIER": "التعديل",
+            "MODIFIED_DATE": "تاريخ التعديل"
+            },
+            "ACTIONS": {
+                "EDIT": "تحرير",
+                "SAVE": "حفظ",
+                "CANCEL": "إلغاء",
+                "TOGGLE": "تبديل القيمة"
+            }
+        }
+    },
+    "ADF_VIEWER": {
+        "ACTIONS": {
+            "DOWNLOAD": "تحميل",
+            "CLOSE": "قريب",
+            "FULLSCREEN": "تفعيل وضع ملء الشاشة",
+            "MORE_ACTIONS": "المزيد من الإجراءات",
+            "INFO": "معلومات",
+            "NEXT_FILE": "الملف التالي",
+            "PREV_FILE": "الملف السابق"
+        },
+        "PAGE_LABEL": {
+            "SHOWING": "عرض",
+            "OF": "من"
+        },
+        "LOADING": "جاري تحميل",
+        "SIDEBAR": {
+            "THUMBNAILS": {
+              "PAGE": "صفحة {{ pageNum }}"
+            },
+            "METADATA": {
+              "MORE_INFORMATION": "معلومات اكثر",
+              "LESS_INFORMATION": "معلومات أقل"
+            }
+        }
+    }
+}
